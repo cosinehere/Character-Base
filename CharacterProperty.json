@@ -1,0 +1,23 @@
+{
+    "Strength" : 0,
+    "Intelligence" : 0,
+    "S" : 0,
+    "Spiritual" : 0,
+
+    "PhysicalAttackDamage" : 0,
+    "CasterAttackDamage" : 0,
+
+    "AttackSpeed" : 1.0,
+    "CasterSpeed" : 1.0,
+    "MovementSpeed" : 1.0,
+
+    "ColdEnhance" : 0,
+    "FireEnhance" : 0,
+    "LightEnhance" : 0,
+    "DarkEnhance" : 0,
+
+    "ColdResistance" : 0,
+    "FireResistance" : 0,
+    "LightResistance" : 0,
+    "DarkResistance" : 0
+}
